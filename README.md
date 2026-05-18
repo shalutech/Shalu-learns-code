@@ -1,11 +1,11 @@
 # Hi there, I'm ShaluTech 👋 
 
-### 🎯 CEG CSE 2026 Aspirant | 12th Grader | Future Developer
+### 🎯 CEG CSE 2027 Aspirant | going to 12th Grade | Future Developer
 
-> Documenting my coding journey from 12th grade to College of Engineering, Guindy 🚀
+> Documenting my coding journey from 11th → 12th grade to College of Engineering, Guindy 🚀
 
 **Current Focus:** Learning Python Daily 🐍  
-**Goal:** Crack CEG CSE 2026 & build tech that matters.
+**Goal:** Crack CEG CSE 2027 & build tech that matters.
 
 ---
 ### 📌 Day 1: Hello GitHub!
